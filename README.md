@@ -1,4 +1,4 @@
-# flutter_application_bank
+# Deposit-Withdraw and transaction historic in flutter
 
 English
 
