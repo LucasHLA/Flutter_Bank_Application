@@ -1,16 +1,7 @@
 # flutter_application_bank
 
-A new Flutter project.
+Hello everyone My name is Lucas Henrique, this is the first repository that i post here on github, its not too much its just a Bank application where you can deposit and withdraw from a fake account and see the recent transactions historic.
+I did this application for a college test and i'm very proud of what i did consedering that it was the first one i did using all my knowledge in flutter so far.
+Thank you very much for opening and looking at my project, fell free to make any improvements you'd like to do to make it looks better.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See you :D
