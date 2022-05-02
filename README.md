@@ -8,8 +8,8 @@ Thank you very much for opening and looking at my project, fell free to make any
 
 Português
 
-Olá a todos, meu nome é Lucas Henrique, e esse é o primeiro reporitório público que faço aqui no github, não é muito incrível, é só uma aplicação que simula um banco onde você pode depositar e sacr de uma conta fake and ver o histórico de transações recentes.
-I fiz esse aplicativo apra uma prova na faculdade e me sinto muito orgulhoso do que fiz considerando que esse foi o primeiro projeto usando todo os meu conhecimento em flutter até o momento.
+Olá a todos, meu nome é Lucas Henrique, e esse é o primeiro repositório público que faço aqui no github, não é muito incrível, é só uma aplicação que simula um banco onde você pode depositar e sacar de uma conta fake e ver o histórico de transações recentes.
+Eu fiz esse aplicativo apra uma prova na faculdade e me sinto muito orgulhoso do que fiz, considerando que esse foi o primeiro projeto usando todo os meu conhecimento em flutter até o momento.
 Obrigado por abrirem e olharem o projeto, sintan-se livres para fazer qualquer melhoria que vocês queiram.
 
 
